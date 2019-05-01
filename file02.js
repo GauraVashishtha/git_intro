@@ -1,0 +1,1 @@
+console.log("more information about file01.js")
